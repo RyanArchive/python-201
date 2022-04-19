@@ -18,4 +18,5 @@ Python 201 Intermediate level Python
 
 ### Resources
 
-- [swapi](https://swapi.dev/)
+- [SWAPI](https://swapi.dev/)
+- [PokeAPI](https://pokeapi.co/)
